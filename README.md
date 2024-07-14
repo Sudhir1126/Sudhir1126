@@ -64,7 +64,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sudhir11263&show_icons=true&theme=radical" alt="Sudhir's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sudhir1126&show_icons=true&theme=radical" alt="Sudhir's GitHub Stats"/>
 </div>
 
 <div align="center">
